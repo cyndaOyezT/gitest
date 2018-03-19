@@ -1,0 +1,8 @@
+Selenium:3.7.1	
+Cucumber:0.0.2
+SonarQube Scanner:2.6.1
+Checkstyle:3.50
+PMD : 3.50
+JSLint:0.8.2
+Findbugs:4.72
+
